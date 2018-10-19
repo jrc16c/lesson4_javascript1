@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 19, 2018
 
 ### Student Name:  
-(First and Last Name)
+(Joshua Chanin)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This program is used to calculate a person's total expenses and the percentages of each category of expenses.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://jrc16c.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to make calculations using JavaScript.
+2. I learned that JavaScript is way more of a loosely typed language than java
+3. I learned that I need to pay more attention to the ID tags if I am copying and pasting. 
 
 
 
